@@ -6,6 +6,12 @@ Overview
 In this project, we aim to classify restaurant reviews based on their sentiment using machine learning techniques. By analyzing textual data, we can automatically determine whether a review expresses positive or negative sentiment towards a restaurant.
 
 
+##Data Import!!!
+
+Download the tsv file and upload in runtime   OR
+Mount google Drive( from google.colab import drive
+drive.mount('/content/drive')
+
 We welcome contributions from the community! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
 License
